@@ -11,6 +11,7 @@
 		"/src",
 		"package.json"
 	],
+	"main": "/src/js/main.js",
 	"roots": {
 		"css": "/src/sass/style.scss",
 		"js": "/src/js/main.js"
