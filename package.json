@@ -12,6 +12,7 @@
 		"package.json"
 	],
 	"roots": {
-		"css": "/src/sass/style.scss"
+		"css": "/src/sass/style.scss",
+		"js": "/src/js/main.js"
 	}
 }
