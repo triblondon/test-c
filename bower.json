@@ -1,9 +1,8 @@
 {
   "name": "test-c",
   "version": "1.5.1",
-  "main": "/src/js/main.js",
-  "roots": {
-    "js": "/src/js/main.js",
-    "css": "/src/sass/style.sass"
-  }
+  "main": [
+    "/src/js/main.js",
+    "/src/sass/style.sass"
+  ]
 }
