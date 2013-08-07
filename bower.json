@@ -4,5 +4,5 @@
   "main": [
     "/src/js/main.js",
     "/src/sass/style.sass"
-  }
+  ]
 }
