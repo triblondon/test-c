@@ -1,0 +1,9 @@
+{
+  "name": "test-c",
+  "version": "1.0.1",
+  "main": "/src/js/main.js",
+  "roots": {
+    "js": "/src/js/main.js",
+    "css": "/src/sass/style.sass"
+  }
+}
