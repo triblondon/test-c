@@ -1,8 +1,5 @@
 {
   "name": "test-c",
   "version": "1.0.1",
-  "main": [
-    "/src/js/main.js",
-    "/src/sass/style.sass"
-  ]
+  "main": "/src/js/main.js"
 }
