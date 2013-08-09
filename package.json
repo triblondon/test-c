@@ -9,11 +9,9 @@
 	},
 	"files": [
 		"/src",
-		"package.json"
+		"package.json",
+		"main.js",
+		"main.scss"
 	],
 	"main": "/src/js/main.js",
-	"roots": {
-		"css": "/src/sass/style.scss",
-		"js": "/src/js/main.js"
-	}
 }
