@@ -13,5 +13,5 @@
 		"main.js",
 		"main.scss"
 	],
-	"main": "/src/js/main.js",
+	"main": "/src/js/main.js"
 }
